@@ -1,0 +1,38 @@
+html{
+    background-color: aqua;
+}
+.usuario{
+    text-align: center;
+    background-color: blue;
+}
+.competencias{
+    text-align: center;
+}
+.resumo{
+    margin: 20px;
+    text-decoration: underline;
+    font-weight: 900;
+}
+.my-resumo{
+    margin: 20px;
+}
+.experiencia{
+    margin: 20px;
+    text-decoration: underline;
+    font-weight: 900;
+}
+.soujunior{
+    margin: 20px;
+}
+.campinas{
+    margin: 20px;
+}
+.iniciativa-soujunior{
+    margin: 20px;
+}
+.cargo-soujunior{
+    margin: 20px;
+}
+div li{
+    margin: 20px;
+}
